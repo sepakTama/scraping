@@ -1,0 +1,5 @@
+*Jupyter notebookの使い方
+https://tonari-it.com/python-jupyter-notebook-markdown/
+
+*CSSセレクタとは
+https://www.asobou.co.jp/blog/web/css-selectors
