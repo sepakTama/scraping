@@ -1,0 +1,7 @@
+今参考にしている本はTensorflow1xで書かれている。
+いかに載せるURLはTensorflow1xからTensorflow2xへのコードの対応を
+大まかに書かれているサイトである。
+
+https://tensorflow.classcat.com/2019/03/11/tf20-alpha-guide-migration-guide/
+
+セッションやプレースホルダを使用することなく機械学習を行うことができる。
