@@ -1,9 +1,11 @@
 beautifulsoup4
 h5py==2.10.0
+janome
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
 keras==2.3.1
 matplotlib==3.1.3
+mecab-python3
 mysqlclient
 numpy==1.18.1
 openpyxl
@@ -17,4 +19,5 @@ tensorflow-estimator==2.2.0
 tensorflow-cpu==2.2.0
 tensorflow-estimator==2.2.0
 torch==1.4.0
+unidic-lite
 xlrd
