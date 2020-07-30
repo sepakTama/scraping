@@ -1,4 +1,5 @@
 beautifulsoup4
+gensim
 h5py==2.10.0
 janome
 keras-applications==1.0.8
