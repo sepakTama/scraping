@@ -12,7 +12,7 @@ numpy==1.18.1
 opencv-python
 openpyxl
 pandas==1.0.1
-pyyaml==5.3
+pyyaml==5.4
 requests
 scikit-learn==0.22.1
 scipy==1.4.1
