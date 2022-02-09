@@ -18,7 +18,7 @@ scikit-learn==0.22.1
 scipy==1.4.1
 selenium
 tensorflow-estimator==2.2.0
-tensorflow-cpu==2.2.0
+tensorflow-cpu==2.5.3
 tensorflow-estimator==2.2.0
 torch==1.4.0
 unidic-lite
